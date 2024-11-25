@@ -1,5 +1,4 @@
 package javaassignments;
-
 class SuperClass{
 	SuperClass()
 	{
